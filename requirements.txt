@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+tiktoken
+python-dotenv
+docarray
+langchain-community --upgrade
