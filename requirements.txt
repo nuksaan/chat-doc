@@ -4,4 +4,5 @@ streamlit
 tiktoken
 python-dotenv
 docarray
-langchain-community --upgrade
+langchain-community
+pypdf
